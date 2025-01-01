@@ -11,3 +11,5 @@
 - Add music and sound
 - System settings
 - Highscore
+- Procedural generation for incoming objects
+- Modify code for better readability and organization
