@@ -13,3 +13,7 @@
 - Highscore
 - Procedural generation for incoming objects
 - Modify code for better readability and organization
+
+## Potential expansion
+- Powerups
+- Environment selection and unlocks
