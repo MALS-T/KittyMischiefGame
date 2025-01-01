@@ -1,5 +1,5 @@
 # KittyMischiefGame
- A simple 2D side-scrolling endless runner where one plays as a cat navigating through the cityscape, dodging obstacles and collecting fishbones for points. Created using Unity.
+ A simple 2D pixelated side-scrolling endless runner where one plays as a cat navigating through the cityscape, dodging obstacles and collecting fishbones for points. Created using Unity.
 
 ## Features
 - Random obstacle spawning based on conditions
